@@ -1,0 +1,47 @@
+{
+    "_id": {
+        "$oid": "5b7fc583af1ba93310b230f4"
+    },
+    "name": "Kenny",
+    "username": "Benny_the_man",
+    "password": "password",
+    "updated_at": {
+        "$date": "2018-08-24T08:44:51.030Z"
+    },
+    "created_at": {
+        "$date": "2018-08-24T08:44:51.030Z"
+    },
+    "__v": 0
+}
+
+{
+    "_id": {
+        "$oid": "5b800dcc60662610d0f2f694"
+    },
+    "name": "Peter",
+    "username": "Peter_the_boy",
+    "password": "password",
+    "updated_at": {
+        "$date": "2018-08-24T13:53:16.228Z"
+    },
+    "created_at": {
+        "$date": "2018-08-24T13:53:16.228Z"
+    },
+    "__v": 0
+}
+
+{
+    "_id": {
+        "$oid": "5b800dcc60662610d0f2f693"
+    },
+    "name": "James",
+    "username": "James_the_boy",
+    "password": "password",
+    "updated_at": {
+        "$date": "2018-08-24T13:53:16.227Z"
+    },
+    "created_at": {
+        "$date": "2018-08-24T13:53:16.227Z"
+    },
+    "__v": 0
+}
